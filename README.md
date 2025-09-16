@@ -1,1 +1,1 @@
-# patterns-in-java
+This repository contains implementations of common Design Patterns in Java, organized into Creational, Structural, and Behavioral categories. Each pattern includes simple examples demonstrating how it can be applied to solve recurring software design problems, making it easier to understand object creation, composition, and interaction. The goal is to provide a quick reference and practical guide for developers learning or revisiting design patterns in Java.
